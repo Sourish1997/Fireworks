@@ -59,6 +59,7 @@ public class Fireworks extends JPanel implements MouseListener, ActionListener
     }
     public static void main(String args[])
     {
+
         f.getContentPane().setBackground(Color.BLACK);
         f.setResizable(true);
         f.setSize(fwidth, fheight);
